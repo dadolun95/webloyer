@@ -1,4 +1,4 @@
-# Webloyer
+# Webloyer <img src="https://camo.githubusercontent.com/96a4b6cf73090301d5c076316e85203e73a60dc15aa6819519d4b75919f44375/68747470733a2f2f6d6564762e696f2f6173736574732f6465706c6f7965722f6c6f676f2e706e67" alt="deployer" height="30px" />
 
 Webloyer is a Web UI for managing [Deployer](https://github.com/deployphp/deployer) deployments.
 
